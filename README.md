@@ -17,6 +17,10 @@
     <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
   </a>
 </p>
+
+## 🛠️ Languages
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=radical"/>
 <!--
 **BeyonceB/BeyonceB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
