@@ -9,9 +9,7 @@
 </p>
 
 ## 🛠️ Technologies and Tools
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
-</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js" />
@@ -19,6 +17,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,figma,wordpress,gcp,ae,ai,ps,pr" />
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 </p>
 <!--
 **BeyonceB/BeyonceB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
