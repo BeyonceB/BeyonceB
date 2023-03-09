@@ -1,7 +1,7 @@
 ### Hi, My name is Beyonce
 #### D3 student at BCIT, digital marketer, multimdeia designer, frontend developer
 
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js,tailwind" />
@@ -11,6 +11,8 @@
   </a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
 
 <!--
 **BeyonceB/BeyonceB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
