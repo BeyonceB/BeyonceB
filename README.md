@@ -1,11 +1,12 @@
-### Hi, My name is Beyonce
+### Hi 👋 My name is Beyonce
 #### D3 student at BCIT, digital marketer, multimdeia designer, frontend developer
 ##
 
 ## 🚀 Quick Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=github_profile"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+</p>
 
 ## 🛠️ Technologies and Tools
 <p align="center">
