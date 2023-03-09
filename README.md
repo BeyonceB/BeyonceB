@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## 🛠️ Languages
+## :desktop_computer: :keyboard: Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 <!--
