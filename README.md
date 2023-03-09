@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=cobalt"/>
   <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true&theme=merko" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 </p>
 
 ## 🛠️ Technologies and Tools
@@ -17,6 +16,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 </p>
 <!--
 **BeyonceB/BeyonceB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
