@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Beyonce
 #### D3 student at BCIT, digital marketer, multimedia designer, frontend developer
-#
+
 
 ## 🚀 Quick Stats
 <p align="center">
@@ -17,7 +17,6 @@
     <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
   </a>
 </p>
-##
 
 <!--
 **BeyonceB/BeyonceB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
