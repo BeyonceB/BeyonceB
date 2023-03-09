@@ -4,7 +4,7 @@
 
 ## 🚀 Quick Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=gradient"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true&theme=transparent" />
 </p>
 
