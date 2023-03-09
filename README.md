@@ -4,8 +4,12 @@
 
 ## 🚀 Quick Stats
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=dracula"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=merko"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=gruvbox"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true&theme=dark" />
 </p>
 
 ## 🛠️ Technologies and Tools
