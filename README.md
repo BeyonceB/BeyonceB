@@ -1,4 +1,4 @@
-### Hi 👋 My name is Beyonce
+### Hi :wave: My name is Beyonce
 #### D3 student at BCIT, digital marketer, multimedia designer, frontend developer
 ##
 
