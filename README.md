@@ -4,7 +4,7 @@
 
 ## 🚀 Quick Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=gradient"/>
   <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true&theme=transparent" />
 </p>
 
@@ -17,12 +17,6 @@
     <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
   </a>
 </p>
-<a href="https://github.com/BeyonceB/github-readme-stats&theme=transparent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyonceB&repo=github-readme-stats&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 <!--
 **BeyonceB/BeyonceB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
