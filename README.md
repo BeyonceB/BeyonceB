@@ -10,11 +10,14 @@
 
 ## 🛠️ Technologies and Tools
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js,tailwind" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=tailwindfigma,wordpress,gcp,ae,ai,ps,pr" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 </p>
