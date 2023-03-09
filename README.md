@@ -4,7 +4,10 @@
 ## Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js,styledcomponents,tailwind,figma,wordpress,gcp,discord,ae,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js,tailwind" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
   </a>
 </p>
 
