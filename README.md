@@ -1,5 +1,5 @@
 ### Hi, My name is Beyonce
-
+# D3 student at BCIT, digital marketer, multimdeia designer, frontend developer
 ## Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
