@@ -6,10 +6,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB&theme=cobalt"/>
   <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 </p>
-
-## :desktop_computer: Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact&theme=radical"/>
 
 ## 🛠️ Technologies and Tools
 <p align="center">
