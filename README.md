@@ -1,7 +1,9 @@
-### Hi, I'm Beyonce
+### Hi, My name is Beyonce
+
+###
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,js,styledcomponents,tailwind,figmawordpress,gcp,discord,ae,ai,ps" />
   </a>
 </p>
 
