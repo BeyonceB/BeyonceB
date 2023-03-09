@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB"/>
   <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact"/>
 </p>
 
 ## 🛠️ Technologies and Tools
@@ -17,6 +16,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,wordpress,gcp,discord,ae,ai,ps,pr" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact"/>
 </p>
 
 <!--
