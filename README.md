@@ -4,8 +4,9 @@
 
 ## 🚀 Quick Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeyonceB"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyonceB&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BeyonceB&show_icons=true" />
 </p>
 
 ## 🛠️ Technologies and Tools
