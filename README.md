@@ -1,6 +1,6 @@
 ### Hi, My name is Beyonce
 
-### Technologies & Tools
+## Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vercel,vscode,react,nextjs,html,css,js,styledcomponents,tailwind,figma,wordpress,gcp,discord,ae,ai,ps,pr" />
